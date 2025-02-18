@@ -1,0 +1,14 @@
+c:\Users\Jeiner\Desktop\Tarea\bin\Debug\net8.0\Tarea.exe
+C:\Users\Jeiner\Desktop\Tarea\bin\Debug\net8.0\Tarea.deps.json
+C:\Users\Jeiner\Desktop\Tarea\bin\Debug\net8.0\Tarea.runtimeconfig.json
+c:\Users\Jeiner\Desktop\Tarea\bin\Debug\net8.0\Tarea.dll
+c:\Users\Jeiner\Desktop\Tarea\bin\Debug\net8.0\Tarea.pdb
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.AssemblyInfoInputs.cache
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.AssemblyInfo.cs
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.csproj.CoreCompileInputs.cache
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.dll
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\refint\Tarea.dll
+c:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.pdb
+C:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\Tarea.genruntimeconfig.cache
+C:\Users\Jeiner\Desktop\Tarea\obj\Debug\net8.0\ref\Tarea.dll
